@@ -1,0 +1,177 @@
+<control> default_path=../../.Samples/
+
+<group>
+lokey=0 hikey=127
+lovel=120 hivel=127
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=24000
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=112 hivel=119
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=16971
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=104 hivel=111
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=12000
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=96 hivel=103
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=8485
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=88 hivel=95
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=6000
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=80 hivel=87
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=4243
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=72 hivel=79
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=3000
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=64 hivel=71
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=2121
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=56 hivel=63
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=1500
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=48 hivel=55
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=1060
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=40 hivel=47
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=750
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=32 hivel=39
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=530
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=24 hivel=31
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=375
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=16 hivel=23
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=265
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=8 hivel=15
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=188
+
+#include "../../.ext/layer.ext"
+
+<group>
+lokey=0 hikey=127
+lovel=0 hivel=7
+ampeg_release=1.5
+loop_mode=no_loop
+fil_type=lpf_2p
+effect1=30
+cutoff=133
+
+#include "../../.ext/layer.ext"
