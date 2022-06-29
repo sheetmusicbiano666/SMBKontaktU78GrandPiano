@@ -1,0 +1,128 @@
+<region> sample=./GP_021.wav key=0 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=1 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=2 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=3 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=4 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=5 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=6 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=7 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=8 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=9 pitch_keycenter=21 
+<region> sample=./GP_021.wav key=10 pitch_keycenter=21
+<region> sample=./GP_021.wav key=11 pitch_keycenter=21
+<region> sample=./GP_021.wav key=12 pitch_keycenter=21
+<region> sample=./GP_021.wav key=13 pitch_keycenter=21
+<region> sample=./GP_021.wav key=14 pitch_keycenter=21
+<region> sample=./GP_021.wav key=15 pitch_keycenter=21
+<region> sample=./GP_021.wav key=16 pitch_keycenter=21
+<region> sample=./GP_021.wav key=17 pitch_keycenter=21
+<region> sample=./GP_021.wav key=18 pitch_keycenter=21
+<region> sample=./GP_021.wav key=19 pitch_keycenter=21
+<region> sample=./GP_021.wav key=20 pitch_keycenter=21
+<region> sample=./GP_021.wav key=21 
+<region> sample=./GP_022.wav key=22 
+<region> sample=./GP_023.wav key=23 
+<region> sample=./GP_024.wav key=24 
+<region> sample=./GP_025.wav key=25 
+<region> sample=./GP_026.wav key=26 
+<region> sample=./GP_027.wav key=27 
+<region> sample=./GP_028.wav key=28 
+<region> sample=./GP_029.wav key=29 
+<region> sample=./GP_030.wav key=30 
+<region> sample=./GP_031.wav key=31 
+<region> sample=./GP_032.wav key=32 
+<region> sample=./GP_033.wav key=33 
+<region> sample=./GP_034.wav key=34 
+<region> sample=./GP_035.wav key=35 
+<region> sample=./GP_036.wav key=36 
+<region> sample=./GP_037.wav key=37 
+<region> sample=./GP_038.wav key=38 
+<region> sample=./GP_039.wav key=39 
+<region> sample=./GP_040.wav key=40 
+<region> sample=./GP_041.wav key=41 
+<region> sample=./GP_042.wav key=42 
+<region> sample=./GP_043.wav key=43 
+<region> sample=./GP_044.wav key=44 
+<region> sample=./GP_045.wav key=45 
+<region> sample=./GP_046.wav key=46 
+<region> sample=./GP_047.wav key=47 
+<region> sample=./GP_048.wav key=48 
+<region> sample=./GP_049.wav key=49 
+<region> sample=./GP_050.wav key=50 
+<region> sample=./GP_051.wav key=51 
+<region> sample=./GP_052.wav key=52 
+<region> sample=./GP_053.wav key=53 
+<region> sample=./GP_054.wav key=54 
+<region> sample=./GP_055.wav key=55 
+<region> sample=./GP_056.wav key=56 
+<region> sample=./GP_057.wav key=57 
+<region> sample=./GP_058.wav key=58 
+<region> sample=./GP_059.wav key=59 
+<region> sample=./GP_060.wav key=60 
+<region> sample=./GP_061.wav key=61 
+<region> sample=./GP_062.wav key=62 
+<region> sample=./GP_063.wav key=63 
+<region> sample=./GP_064.wav key=64 
+<region> sample=./GP_065.wav key=65 
+<region> sample=./GP_066.wav key=66 
+<region> sample=./GP_067.wav key=67 
+<region> sample=./GP_068.wav key=68 
+<region> sample=./GP_069.wav key=69 
+<region> sample=./GP_070.wav key=70 
+<region> sample=./GP_071.wav key=71 
+<region> sample=./GP_072.wav key=72 
+<region> sample=./GP_073.wav key=73 
+<region> sample=./GP_074.wav key=74 
+<region> sample=./GP_075.wav key=75 
+<region> sample=./GP_076.wav key=76 
+<region> sample=./GP_077.wav key=77 
+<region> sample=./GP_078.wav key=78 
+<region> sample=./GP_079.wav key=79 
+<region> sample=./GP_080.wav key=80 
+<region> sample=./GP_081.wav key=81 
+<region> sample=./GP_082.wav key=82 
+<region> sample=./GP_083.wav key=83 
+<region> sample=./GP_084.wav key=84 
+<region> sample=./GP_085.wav key=85 
+<region> sample=./GP_086.wav key=86 
+<region> sample=./GP_087.wav key=87 
+<region> sample=./GP_088.wav key=88 
+<region> sample=./GP_089.wav key=89 
+<region> sample=./GP_090.wav key=90 
+<region> sample=./GP_091.wav key=91 
+<region> sample=./GP_092.wav key=92 
+<region> sample=./GP_093.wav key=93 
+<region> sample=./GP_094.wav key=94 
+<region> sample=./GP_095.wav key=95 
+<region> sample=./GP_096.wav key=96 
+<region> sample=./GP_097.wav key=97 
+<region> sample=./GP_098.wav key=98 
+<region> sample=./GP_099.wav key=99 
+<region> sample=./GP_100.wav key=100
+<region> sample=./GP_101.wav key=101
+<region> sample=./GP_102.wav key=102
+<region> sample=./GP_103.wav key=103
+<region> sample=./GP_104.wav key=104
+<region> sample=./GP_105.wav key=105
+<region> sample=./GP_106.wav key=106
+<region> sample=./GP_107.wav key=107
+<region> sample=./GP_108.wav key=108
+<region> sample=./GP_108.wav key=109 pitch_keycenter=108
+<region> sample=./GP_108.wav key=110 pitch_keycenter=108
+<region> sample=./GP_108.wav key=111 pitch_keycenter=108
+<region> sample=./GP_108.wav key=112 pitch_keycenter=108
+<region> sample=./GP_108.wav key=113 pitch_keycenter=108
+<region> sample=./GP_108.wav key=114 pitch_keycenter=108
+<region> sample=./GP_108.wav key=115 pitch_keycenter=108
+<region> sample=./GP_108.wav key=116 pitch_keycenter=108
+<region> sample=./GP_108.wav key=117 pitch_keycenter=108
+<region> sample=./GP_108.wav key=118 pitch_keycenter=108
+<region> sample=./GP_108.wav key=119 pitch_keycenter=108
+<region> sample=./GP_108.wav key=120 pitch_keycenter=108
+<region> sample=./GP_108.wav key=121 pitch_keycenter=108
+<region> sample=./GP_108.wav key=122 pitch_keycenter=108
+<region> sample=./GP_108.wav key=123 pitch_keycenter=108
+<region> sample=./GP_108.wav key=124 pitch_keycenter=108
+<region> sample=./GP_108.wav key=125 pitch_keycenter=108
+<region> sample=./GP_108.wav key=126 pitch_keycenter=108
+<region> sample=./GP_108.wav key=127 pitch_keycenter=108
