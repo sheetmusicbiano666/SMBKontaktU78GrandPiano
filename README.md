@@ -12,7 +12,7 @@ The SMB Kontakt U78 Grand Piano is sampled from the well-known GP Samples Yamaha
 
 - 16 dynamic velocity layers for a realistic experience
 
-- High quality lossless FLAC samples
+- High quality lossless WAV samples
 
 - Optimized for Black MIDI playback
 
