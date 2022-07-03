@@ -18,5 +18,6 @@ The SMB Kontakt U78 Grand Piano is sampled from the well-known GP Samples Yamaha
 
 - Lil Blue_Inkling (Create) and Sheet Music Biano (Remaster)
 - Lil-blueinkling's Website: https://lil-blueinkling.mrchb1.repl.co/
-- First Lil-blueinkling's (Pon MIDIs) Youtube Channel: https://www.youtube.com/c/lilblueinkling/about
+- First Lil-blueinkling's (Pon MIDIs) Youtube Channel: https://youtube.com/c/PonMIDIs
+
 - Second Lil-blueinkling's (Pon MIDIs) Youtube Channel: https://youtube.com/channel/UC46ZrIJQ2xOykRTG2y_Pvxg
